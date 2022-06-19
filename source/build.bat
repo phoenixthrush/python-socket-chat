@@ -1,0 +1,2 @@
+python -m nuitka --onefile --enable-plugin=numpy --remove-output --windows-icon-from-ico=icon.ico --windows-company-name="Phoenixthrush UwU" --windows-file-version=1 server.py
+python -m nuitka --onefile --enable-plugin=numpy --remove-output --windows-icon-from-ico=icon.ico --windows-company-name="Phoenixthrush UwU" --windows-file-version=1 client.py
